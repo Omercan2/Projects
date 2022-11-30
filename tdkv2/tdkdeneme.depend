@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1649160558 source:c:\users\Ömer can Çetinkaya\desktop\c\tdkdeneme\main.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
